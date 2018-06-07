@@ -5,7 +5,7 @@ This example currently supports Linux distribution with Chrome browser of versio
 
 To run on Linux, make the chromedriver file executable by running the following command from root project dir:
 ```
-chmod +x src/main/java/com/github/automatedowl/examples/drivers/executable/chromedriver
+chmod +x executable/chromedriver
 ```
 
 Install the requirements:
