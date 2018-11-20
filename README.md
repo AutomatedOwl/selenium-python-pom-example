@@ -11,11 +11,17 @@ pytest
 
 To run on Linux, make the chromedriver file executable by running the following command from root project dir:
 ```
-chmod +x executable/chromedriver
+chmod +x driver/executable/chromedriver
 ```
 
 Install the requirements:
 ```
+# Ubuntu:
+sudo apt install python-pytest python-pip
+pip install -r requirements/requirements.txt
+
+# Fedora:
+sudo apt install python-pytest python-pip
 pip install -r requirements/requirements.txt
 ```
 
