@@ -2,6 +2,7 @@
 
 Example of selenium test using Page-Object-Model running on pytest framework.
 This example currently supports Linux distribution or Windows with Chrome browser of version 66-68 installed.
+Surprisingly it was also tested successfully on Chrome 80 as well.
 
 To run on Windows, just install the package requirements and launch the test:
 ```
