@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-SITE_URL = 'https://testjs2.000webhostapp.com/'
+SITE_URL = 'http://testjs.epizy.com/'
 
 class Site88Page:
             
