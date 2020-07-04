@@ -14,7 +14,7 @@ class TestWebHost(TestCaseWebHost):
         pytest.webhost_page.navigate_to_url()
         
         # Send 'Hello World' input.
-        pytest.webhost_page.get_textbox().send_keys('Hello World')
+        pytest.webhost_page.get_textbox().send_keys('Hello World Python')
         
         # Wait before closing browser.
         TestCaseWebHost.wait_before_closing_browser(self)
