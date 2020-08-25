@@ -22,7 +22,7 @@ sudo apt install python-pytest python-pip
 pip install -r requirements/requirements.txt
 
 # Fedora:
-sudo apt install python-pytest python-pip
+sudo dnf install python-pytest python-pip
 pip install -r requirements/requirements.txt
 ```
 
